@@ -93,11 +93,6 @@ This project uses cutting-edge Jetpack Compose, Room database, and a clean archi
 
 ---
 
-## 📄 License
-
-MIT License (or your choice)
-
----
 
 > _Built with ❤️ and modern Android best practices by [Deepak Yadav]._  
 > _If you enjoy this project, please ⭐️ star it or give feedback!_
