@@ -75,7 +75,7 @@ This project uses cutting-edge Jetpack Compose, Room database, and a clean archi
 ---
 
 
-## 📲 Screenshots (Add Yours Here!)
+## 📲 Screenshots 
 
 <!--
 | Dashboard             | Add Relationship      | Memories List         |
